@@ -1,5 +1,4 @@
 # Getting Started with Arduino and Robotics
-
 Complete beginner's guide to Arduino, electronics basics, and building your first robot.
 
 ---
@@ -7,34 +6,34 @@ Complete beginner's guide to Arduino, electronics basics, and building your firs
 ## 🛒 Shopping List for Beginners
 
 ### Essential Kit (Start Here):
-- **Arduino Uno R3** + USB cable (~$25)
-- **Breadboard** (830 tie-points) + jumper wires (~$10)
-- **LED Starter Kit**: LEDs (red, green, blue, yellow), 220Ω resistors (~$5)
-- **Resistor kit**: 220Ω, 1kΩ, 10kΩ assortment (~$5)
-- **Push buttons** (4-pin tactile switches) (~$3)
-- **Potentiometer** 10kΩ (~$2)
-- **9V battery** + battery clip OR USB power bank
+- **Arduino Uno R3** + USB cable (~¥3,500)
+- **Breadboard** (830 tie-points) + jumper wires (~¥1,400)
+- **LED Starter Kit**: LEDs (red, green, blue, yellow), 220Ω resistors (~¥700)
+- **Resistor kit**: 220Ω, 1kΩ, 10kΩ assortment (~¥700)
+- **Push buttons** (4-pin tactile switches) (~¥400)
+- **Potentiometer** 10kΩ (~¥300)
+- **9V battery** + battery clip OR USB power bank (~¥500)
 
-**Total: ~$50**
+**Total: ~¥7,500**
 
 ### Robot Car Kit (Next Step):
 - **2WD Robot Car Chassis Kit** including:
   - Chassis (acrylic or metal)
   - 2× DC motors with wheels
   - Battery holder (4× AA or 18650)
-  - (~$15-25)
-- **L298N Motor Driver Module** (~$3)
-- **HC-SR04 Ultrasonic Sensor** (~$2)
-- **Batteries**: 4× AA or 18650 rechargeable
-- **More jumper wires** (male-male, male-female)
+  - (~¥2,200-3,500)
+- **L298N Motor Driver Module** (~¥400)
+- **HC-SR04 Ultrasonic Sensor** (~¥300)
+- **Batteries**: 4× AA or 18650 rechargeable (~¥800)
+- **More jumper wires** (male-male, male-female) (~¥400)
 
-**Total: ~$25**
+**Total: ~¥3,500**
 
 ### Optional but Useful:
-- **Multimeter** (basic digital multimeter) (~$15)
-- **Soldering iron kit** for permanent connections (~$20)
-- **ESP32 DevKit** for WiFi/Bluetooth projects (~$8)
-- **Servo motors** SG90 (for robot arms, camera gimbal) (~$3 each)
+- **Multimeter** (basic digital multimeter) (~¥2,100)
+- **Soldering iron kit** for permanent connections (~¥2,800)
+- **ESP32 DevKit** for WiFi/Bluetooth projects (~¥1,100)
+- **Servo motors** SG90 (for robot arms, camera gimbal) (~¥400 each)
 
 ---
 
