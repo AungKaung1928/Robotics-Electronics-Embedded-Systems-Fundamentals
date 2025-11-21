@@ -1,4 +1,4 @@
-# Electrical Fundamentals
+# 01-electrical-fundamentals
 
 Basic electrical concepts essential for understanding robot circuits, power systems, and signal flow.
 
