@@ -42,6 +42,11 @@ Hardware tools, debugging techniques, and troubleshooting methods.
 Interfacing microcontrollers with ROS 2, hardware abstraction layers, and sensor publishing.
 
 ---
+### [📖 Arduino Troubleshooting Guide](./Arduino%20Troubleshooting%20Guide/)
+Common Arduino problems and solutions: upload issues, hardware debugging, serial communication errors, and sensor troubleshooting.
+
+### [🚀 Getting Started with Arduino and Robotics](./Getting%20Started%20with%20Arduino%20and%20Robotics/)
+Beginner-friendly tutorials with shopping list, Arduino IDE setup, breadboard basics, and 5 complete projects from LED to robot car.
 
 ## 🎯 Target Audience
 
