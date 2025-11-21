@@ -8,6 +8,9 @@ A comprehensive guide to electrical, electronics, and embedded systems concepts 
 
 This repository covers fundamental concepts required for robotics engineers working with hardware integration, embedded systems, and control systems.
 
+### 0. [🎓 Getting Started (Beginners)](./Getting%20Started%20with%20Arduino%20and%20Robotics/)
+Complete beginner's guide with step-by-step Arduino tutorials, breadboard basics, and building your first robot car.
+
 ### 1. [Electrical Fundamentals](./01-electrical-fundamentals/)
 Basic electrical concepts, circuit analysis, and power systems for robotics applications.
 
